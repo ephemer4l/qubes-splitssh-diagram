@@ -1,1 +1,90 @@
-<mxfile host="app.diagrams.net" modified="2020-11-18T13:00:25.500Z" agent="5.0 (X11)" etag="eCIVQek1tZQBtROG2pPi" version="13.9.9" type="github"><diagram id="SKtbNTC9j6CT3jW_uAWr" name="Page-1">7Vpbc+I2FP41zLQPyeBrzGMgZLfT7Wy6tNPdfRO2sNUYi8giwP76SliyJVuOgQBDNoUZRjqSJet85456zmi+/kDAIvkDRzDt2f1o3XPuerbtDTz2ywkbQej3C0JMUFSQrIowQT+gIMppSxTBXJtIMU4pWujEEGcZDKlGA4TglT5thlN91wWIxY79ijAJQQob0/5BEU0E1fIH1cBHiOJEbB3YfjEwBeFjTPAyE/v1bGe2/RTDcyDXEvvmCYjwSiE5454zIhjTojVfj2DKWSvZVjx33zJavjeBGd3lAYHTM0iX4ugLSHKcgVS8H91InuQrNE9BxnrDVYIonCxAyIdWTAIYLaHzlPUs1tyeH0aiVx6xzzpxCvJctEM8R6Fo5xQQKuTAdjhB7HaP0nSEU0y2LyGZ6QxnOKNGuj7f3362GxD8CE0jTZYJLj5DQuFaIQkWfoB4DinZsCli1JfiLcTdFd2VIjueoCWK2DhSDICQ17hcusKMNQRsZgj//Ouz8zXG4/vf1kn0+P3vgM7hlWUHDWSbiCZgwZvhJkUMMOJ0QzstoP00LQmlwH9eUrYMlKgXWFqeJg8vi0AdoVEwHt6XI1IRrSbKd7fj4H5kxNLbF0vX06AsNVXB0jdAGZwOyYEBST9l+w4j9MyaMW9OJh/ZnN/hJpeDbDdlvAE+YwfVsdUByPBW1VVOCxJIUZxxsWFMhow+5MxFzHjeioE5iqK0zU7sJgxHANKrAek3gXQNQJ5OJZ1+t0rq3OlQxpc16QV9Gd7x755WcW8ALB0AA/8t2wCAfzoAnPcFgKMDYBkQCM6rAW43ADCLbnkExw0MZy9nahEeNMkKFIxLZPOV8//ak91v6tjdWoBT9Dayt0ZUeYz1vikj1UO8oz7zAAliXOH2r8V7dQKZ4yUJ4S5OnJ0+hnQX0YaRDGxbREPB3hSRSBqBKaDoWQ+HTQIhdnjAiJ2ulLwbPR5qiFRxdPGQGp7W1ikNhBThm9pCBWcaC23Fszz1ayS2GSAbnG+eJ1csI+Dv8L/v3TpW+7rb9vjeWW2PfzLb067757RKr7AzUsp3sDP9S7YzVj12ONjOWOe2MzcN6cxCQN+f5ahF7cH5gvaBKTwvzDkvNmyrTVLD/aclLiy7Y/v8q5IqnxCmSHcKxUItXuHEBZa6jQoDODVUTCIAg1lp9/YpyTTR37uQ4kg9OGYhRez2BYYUZDHj9l7bmVIU29F3AylTqQxQOOTA5CexEHbTQjQk6DzJS1ltaa/YNEWh1K43nD5a3Qi8OntRowQlaGiJEyKQJ6Ud4J0HQLkobil233oRijfn7cssZ6MfZG9vH+jruOd29s3a7E/h7PfXcbfT25tqradLEtzTqfilJgmDy9LxG/fa9wbVR3fQBwf4HcvWJerUFsC9mEqkEu61BYjHUPSLK0W6tgGBd1fYOcBiX2BlpwNKBSCZpPE87Kr4i/KWx0n9xbqZwdWyvwNXeSJwDUPOd4IpZilkazpolrCLOcgvT8spzK8neXLLNeJXueqUGI6wy8neuO7sndx6bUWmjuJGvRZ1RCN404xuWBgwEV1MaIJjfhlkXFGH4ZI8lzmHzrzqgU8YL8SUfyGlG1FHAEuKa5mPMYiRI+Yg5oC7HN01UOkQOuOgVwY4pZ+r/y/dEXuw4BJslGkLPiFv38e1bH0ft3YTqOu99PmsUbzBkQMh0+WGmkh2hD4gXxRXwGZozSXx0Osm08BzvZ1iplkQwjA8jlEoNf6FawqmyOh0901kIK9A8gXOMeV1sxwy3Sfvz3SXqEiUBruZ7gOCHtatrv8VelZdsXTG/wE=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-18T15:13:08.422Z" agent="5.0 (X11)" etag="GwTGaOh39wG71ltGzkfX" version="13.9.9" type="github">
+  <diagram id="SKtbNTC9j6CT3jW_uAWr" name="Page-1">
+    <mxGraphModel dx="1422" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5" value="vault" style="swimlane;whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;comic=0;startSize=23;swimlaneFillColor=#ffffff;fontColor=#ffffff;fillColor=#666666;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="600" y="40" width="150" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="QTO3XgoEFIxhdkZU8tme-128" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rounded=0;glass=0;comic=0;strokeColor=#23445d;strokeWidth=1;fillColor=#bac8d3;" parent="5" vertex="1">
+          <mxGeometry x="45" y="220" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QTO3XgoEFIxhdkZU8tme-129" value="&lt;div&gt;SSH Keys&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;comic=0;" parent="5" vertex="1">
+          <mxGeometry x="55" y="260" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QTO3XgoEFIxhdkZU8tme-130" value="" style="rounded=0;whiteSpace=wrap;html=1;glass=0;comic=0;strokeWidth=1;fillColor=#BDBDBD;strokeColor=#666666;" parent="5" vertex="1">
+          <mxGeometry x="15" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QTO3XgoEFIxhdkZU8tme-133" value="" style="rounded=0;whiteSpace=wrap;html=1;glass=0;comic=0;strokeWidth=1;fillColor=#BDBDBD;strokeColor=#666666;" parent="5" vertex="1">
+          <mxGeometry x="35" y="160" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QTO3XgoEFIxhdkZU8tme-134" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#666666;" parent="5" source="QTO3XgoEFIxhdkZU8tme-128" target="QTO3XgoEFIxhdkZU8tme-133" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="220" as="sourcePoint" />
+            <mxPoint x="120" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QTO3XgoEFIxhdkZU8tme-135" value="&lt;div&gt;ssh-agent&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;comic=0;" parent="5" vertex="1">
+          <mxGeometry x="42.5" y="160" width="65" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QTO3XgoEFIxhdkZU8tme-136" value="" style="endArrow=classic;startArrow=classic;html=1;strokeColor=#666666;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="5" source="QTO3XgoEFIxhdkZU8tme-135" target="QTO3XgoEFIxhdkZU8tme-130" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="160" as="sourcePoint" />
+            <mxPoint x="120" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QTO3XgoEFIxhdkZU8tme-137" value="ncat" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;comic=0;" parent="5" vertex="1">
+          <mxGeometry x="55" y="80" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="90" value="&lt;font color=&quot;#262626&quot;&gt;ssh-client&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;comic=0;strokeColor=#6c8ebf;fillColor=#dae8fc;startSize=23;swimlaneFillColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="337" y="40" width="150" height="320" as="geometry">
+            <mxRectangle x="337" y="40" width="120" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QTO3XgoEFIxhdkZU8tme-127" value="" style="rounded=0;whiteSpace=wrap;html=1;glass=0;comic=0;strokeWidth=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" parent="90" vertex="1">
+          <mxGeometry x="15" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QTO3XgoEFIxhdkZU8tme-131" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=1 1;" parent="90" target="QTO3XgoEFIxhdkZU8tme-130" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="133" y="90" as="sourcePoint" />
+            <mxPoint x="183" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QTO3XgoEFIxhdkZU8tme-138" value="ncat" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;comic=0;" parent="90" vertex="1">
+          <mxGeometry x="45" y="80" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QTO3XgoEFIxhdkZU8tme-141" value="" style="endArrow=classic;startArrow=classic;html=1;strokeColor=#666666;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="90" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="74.65999999999997" y="160" as="sourcePoint" />
+            <mxPoint x="74.65999999999997" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QTO3XgoEFIxhdkZU8tme-143" value="" style="rounded=0;whiteSpace=wrap;html=1;glass=0;comic=0;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="90" vertex="1">
+          <mxGeometry x="35" y="160" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QTO3XgoEFIxhdkZU8tme-142" value="&lt;div&gt;ssh-agent&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;comic=0;" parent="90" vertex="1">
+          <mxGeometry x="42.5" y="160" width="65" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QTO3XgoEFIxhdkZU8tme-132" value="&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;qrexec protocol&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;(qubes.SshAgent)&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;comic=0;" parent="1" vertex="1">
+          <mxGeometry x="520" y="110" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="QTO3XgoEFIxhdkZU8tme-147" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#666666;" parent="1" source="QTO3XgoEFIxhdkZU8tme-142" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="412" y="240" />
+              <mxPoint x="280" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QTO3XgoEFIxhdkZU8tme-149" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;glass=0;comic=0;strokeColor=#b85450;strokeWidth=1;fillColor=#f8cecc;" parent="1" vertex="1">
+          <mxGeometry x="240" y="260" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QTO3XgoEFIxhdkZU8tme-150" value="Remote server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;comic=0;" parent="1" vertex="1">
+          <mxGeometry x="260" y="290" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
