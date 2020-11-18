@@ -1,1 +1,1 @@
-# qubes-splitssh-diagram
+# qubes-split-ssh-diagram
