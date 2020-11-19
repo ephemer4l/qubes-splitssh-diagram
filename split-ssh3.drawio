@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-19T11:00:25.500Z" agent="5.0 (X11)" etag="RvSzIaQ0rpAR2d4WUYjf" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-19T11:10:01.900Z" agent="5.0 (X11)" etag="n0GSSavtNpiXG8JgZLha" version="13.10.0" type="github">
   <diagram id="SKtbNTC9j6CT3jW_uAWr" name="Page-1">
-    <mxGraphModel dx="422" dy="354" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="506" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,15 +37,15 @@
         <mxCell id="QTO3XgoEFIxhdkZU8tme-137" value="ncat" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;comic=0;" parent="5" vertex="1">
           <mxGeometry x="55" y="40" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="90" value="&lt;font color=&quot;#262626&quot;&gt;ssh-client&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;comic=0;strokeColor=#6c8ebf;fillColor=#dae8fc;startSize=23;swimlaneFillColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="90" value="&lt;font color=&quot;#262626&quot;&gt;ssh-client&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;comic=0;strokeColor=#d6b656;fillColor=#fff2cc;startSize=23;swimlaneFillColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="337" y="40" width="150" height="80" as="geometry">
             <mxRectangle x="337" y="40" width="120" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7Ih5Z2z4oaHKUIcbK2M9-90" value="" style="rounded=0;whiteSpace=wrap;html=1;glass=0;comic=0;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="90" vertex="1">
+        <mxCell id="7Ih5Z2z4oaHKUIcbK2M9-90" value="" style="rounded=0;whiteSpace=wrap;html=1;glass=0;comic=0;strokeWidth=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="90" vertex="1">
           <mxGeometry x="42.5" y="40" width="65" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="QTO3XgoEFIxhdkZU8tme-138" value="ncat" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;comic=0;" parent="90" vertex="1">
+        <mxCell id="QTO3XgoEFIxhdkZU8tme-138" value="ncat" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;comic=0;" parent="90" vertex="1">
           <mxGeometry x="42.5" y="40" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QTO3XgoEFIxhdkZU8tme-132" value="&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;qrexec protocol&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;(qubes.SshAgent)&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;comic=0;" parent="1" vertex="1">
