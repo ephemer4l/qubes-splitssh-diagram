@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-23T14:50:02.242Z" agent="5.0 (X11)" etag="uskdKqnadFpiyGS4Vg80" version="13.10.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-23T14:57:44.634Z" agent="5.0 (X11)" etag="rInXBu9sdw0BYy-snrJw" version="13.10.1" type="github">
   <diagram id="SKtbNTC9j6CT3jW_uAWr" name="Page-1">
     <mxGraphModel dx="1185" dy="1053" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -147,7 +147,7 @@
         <mxCell id="Rzevuu3Boefq3aI9rTCi-103" value="&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;qrexec protocol&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;(qubes.SshAgent)&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;comic=0;" vertex="1" parent="1">
           <mxGeometry x="804" y="70" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="Rzevuu3Boefq3aI9rTCi-110" value="&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot; face=&quot;Helvetica&quot;&gt;master password plus optionally an external key file or Yubikey.&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot; face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot; face=&quot;Helvetica&quot;&gt;(i.e. external USB drive as USB keyboard for Yubikey) &lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Rzevuu3Boefq3aI9rTCi-110" value="&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot; face=&quot;Helvetica&quot;&gt;master password plus optionally an external key file or Yubikey.&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot; face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot; face=&quot;Helvetica&quot;&gt;(i.e. external USB drive or as USB keyboard for Yubikey) &lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1049" y="135" width="152" height="65.5" as="geometry" />
         </mxCell>
       </root>
